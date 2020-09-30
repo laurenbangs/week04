@@ -1,2 +1,3 @@
-div  p {font-family: 'Architects Daughter', cursive;}
+  p {font-family: 'Architects Daughter', cursive;}
+ <p  class="teaser oneoff" style="color: aqua">some text</p>
 p {font-family: 'Roboto Slab', serif;} 
